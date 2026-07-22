@@ -11,19 +11,22 @@
 </p>
 
 ---
+## 🚀 Who I Am
 
-## 🚀 The Developer & The Artist
-
-I am a hybrid tech enthusiast bridging the gap between robust server-side architecture and captivating digital aesthetics. I bring a highly analytical and creative mindset to every project, whether I am writing code or designing visual assets.
-
-- 🎓 **Academic Core:** Pursuing a BS in Computer Science at the University of Management and Technology.
-- 🛡️ **Backend Mastery:** Officially **Meta Certified** in Backend Development.
-- 🎨 **Creative Agency:** Running **kamranworks**, delivering premium graphic assets (thumbnails, logos, promotional posters) and bespoke programming solutions.
-- 🛒 **E-Commerce Infrastructure:** Scaling dropshipping operations and digital marketplaces like **Nexus Edge**.
-- 🎮 **Game Design:** Official World of Wonder (WOW) map creator, pushing the boundaries of custom interactive environments.
-
----
-
+```typescript
+const kamran = {
+  name: "Muhammad Kamran",
+  alias: "Kami",
+  roles: ["Backend Developer", "Creative Designer", "CS Student"],
+  education: "BS Computer Science @ University of Management and Technology",
+  certifications: ["Meta Certified Backend Developer"],
+  enterprises: {
+    freelance: "kamranworks - Bespoke Programming & Premium Graphic Assets",
+    eCommerce: "Nexus Edge - Scaling Dropshipping Infrastructure"
+  },
+  gaming_and_design: "Official PUBG World of Wonder (WOW) Map Creator",
+  mission: "Bridging the gap between robust server-side architecture and captivating digital aesthetics."
+};
 ## ⚡ Technical & Creative Arsenal
 
 ### 💻 Backend & Architecture
