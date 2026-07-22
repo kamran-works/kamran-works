@@ -10,6 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=kamran-works&color=00E5FF&style=flat-square&label=Profile+Views" />
 <img src="https://img.shields.io/github/followers/kamran-works?label=Followers&style=flat-square&color=00E5FF" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-00E5FF?style=flat-square&logo=briefcase&logoColor=white" />
 
 </div>
 
